@@ -1,24 +1,9 @@
-# README
+jnn_2010_e_ポジティブ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nagano_cake
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+開発者
+たつさん
+とよへいさん
+なかさん
+まささん
